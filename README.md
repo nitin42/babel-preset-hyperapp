@@ -1,5 +1,5 @@
 # babel-preset-hyperapp
-A babel preset for HyperApp
+A Babel preset for HyperApp
 
 ## Usage
 If you want to use this Babel preset in a project using HyperApp, you can install it with following steps.
