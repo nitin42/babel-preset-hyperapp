@@ -20,7 +20,7 @@ Also remember to provide environment variables in your `package.json` like this,
 
 ```
 "scripts": {
-  "start": "NODE_ENV=development ./node_modules/.bin/webpack-dev-server --watch --hot --open,
+  "start": "NODE_ENV=development ./node_modules/.bin/webpack-dev-server --watch --hot --open",
   "build": "NODE_ENV=production ./node_modules/.bin/webpack"
 }
 
